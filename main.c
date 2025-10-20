@@ -1,4 +1,4 @@
-
+//Kalkulator Resistor Seri
 #include <stdio.h>
 void hitungTotal(int jumlah) {
     float resistor, total = 0;
