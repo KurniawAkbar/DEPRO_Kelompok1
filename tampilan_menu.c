@@ -1,3 +1,4 @@
+#include <stdio.h>
 void menu(){
     for(int i=0;i<26;i++){
         printf("<>");
