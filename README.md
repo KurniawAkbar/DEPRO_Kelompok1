@@ -10,7 +10,8 @@ Pengerjaan Kurniawan Akbar (5022251108):
 1.	Tampilan Menu dan fungsi pilihan
 2.	Kalkulator Resistor Paralel
 3.	Konversi Desimal
-   
+
+Penjelasan hasil pengerjaan:
 1. Tampilan Menu dan fungsi pilihan: Menu tampilan ditampilkan diawal fungsi dijalankan yang berisi pilihan fungsi (1-9), kemudian setiap user selesai menggunakan salah satu fungsi, akan ditampilkan pilihan apakah user akan tetap di fungsi tersebut atau beralih ke fungsi lain sampai user memilih pilihan 9 (keluar).
 2. Fungsi Menghitung Hambatan Total Resistor Paralel:
    Pada fungsi ini user menginput banyak n resistor (banyak resistor tidak nol), lalu user menginput masing-masing nilai resitor satu per satu. Fungsi akan menghitung dengan persamaan 1/r = 1/r1 + 1/r2 +..1/rn. Ouputnya adalah nilai total yang dihitung dengan persamaan R=1/1/r.
